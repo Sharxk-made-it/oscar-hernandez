@@ -2,6 +2,8 @@
   "name": "oscardev",
   "version": "0.0.0",
   "scripts": {
+    "predeploy": "ng build --configuration production --base-href /oscar-hernandez/",
+    "deploy": "gh-pages -d dist/oscardev",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
