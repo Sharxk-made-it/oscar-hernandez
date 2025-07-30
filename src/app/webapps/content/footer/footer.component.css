@@ -1,0 +1,23 @@
+footer {
+    background-color: #000000 !important;
+    /* negro sólido */
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer a {
+    color: white;
+    margin: 0 12px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+footer a:hover {
+    color: #9c27b0;
+    /* morado */
+}
+
+footer p {
+    margin: 0;
+}
