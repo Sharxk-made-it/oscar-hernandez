@@ -25,6 +25,7 @@
           "options": {
             "deployUrl": "/oscar-hernandez/",
             "outputPath": "dist/oscardev",
+            "baseHref": "/oscar-hernandez/",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
