@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "predeploy": "ng build --configuration production --base-href /oscar-hernandez/",
-    "deploy": "gh-pages -d dist/oscardev",
+    "deploy": "gh-pages -d dist/oscardev/browser",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
